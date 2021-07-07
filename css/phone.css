@@ -1,0 +1,29 @@
+.logo{
+    display: inline-block;
+    margin: 8px 10px;
+}
+h1{
+    position: absolute;
+    bottom: 86%;
+    left: 35%;
+}
+.container{
+    max-width: 100vh;
+    padding: 10px;
+    height: 70vh;
+    
+}
+.message{
+    font-size: 13px;
+    margin: 7px auto;
+}
+#messageInp{
+    height: 25px;
+    font-size: 15px;
+
+}
+.btn{
+    margin: 0px 3px;
+    width: 16%;
+    height: 25px;
+}
